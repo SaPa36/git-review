@@ -13,4 +13,8 @@
 13. git branch feature-skill
 14. git checkout feat
 ure-skill
-15. 
+15. git add .
+16. git commit -m "first commit"
+17. git checkout main
+18. git merge feature-
+skill
